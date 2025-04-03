@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palindroom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/atbean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/beveiligd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oauth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xml" vcs="Git" />
+  </component>
+</project>
