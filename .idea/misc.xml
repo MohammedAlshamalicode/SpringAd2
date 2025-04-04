@@ -5,6 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/atbean/pom.xml" />
+        <option value="$PROJECT_DIR$/beveiligd/pom.xml" />
+        <option value="$PROJECT_DIR$/cors/pom.xml" />
+        <option value="$PROJECT_DIR$/firma/pom.xml" />
+        <option value="$PROJECT_DIR$/oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/Palindroom/pom.xml" />
+        <option value="$PROJECT_DIR$/xml/pom.xml" />
       </list>
     </option>
   </component>
