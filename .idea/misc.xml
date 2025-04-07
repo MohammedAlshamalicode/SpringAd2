@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/oauth/pom.xml" />
         <option value="$PROJECT_DIR$/Palindroom/pom.xml" />
         <option value="$PROJECT_DIR$/xml/pom.xml" />
+        <option value="$PROJECT_DIR$/environment/pom.xml" />
+        <option value="$PROJECT_DIR$/mail/pom.xml" />
       </list>
     </option>
   </component>

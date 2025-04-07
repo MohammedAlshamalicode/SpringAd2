@@ -6,19 +6,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="environment" />
         <module name="cors" />
-        <module name="beveiligd" />
+        <module name="mail" />
         <module name="atbean" />
+        <module name="Palindroom" />
+        <module name="xml" />
+        <module name="beveiligd" />
         <module name="firma" />
+        <module name="oauth" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Palindroom" options="-parameters" />
       <module name="atbean" options="-parameters" />
       <module name="beveiligd" options="-parameters" />
       <module name="cors" options="-parameters" />
+      <module name="environment" options="-parameters" />
       <module name="firma" options="-parameters" />
+      <module name="mail" options="-parameters" />
+      <module name="oauth" options="-parameters" />
+      <module name="xml" options="-parameters" />
     </option>
   </component>
 </project>
