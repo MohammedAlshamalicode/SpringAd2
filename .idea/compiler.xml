@@ -12,6 +12,7 @@
         <module name="atbean" />
         <module name="Palindroom" />
         <module name="xml" />
+        <module name="hateoas" />
         <module name="beveiligd" />
         <module name="firma" />
         <module name="oauth" />
@@ -26,6 +27,7 @@
       <module name="cors" options="-parameters" />
       <module name="environment" options="-parameters" />
       <module name="firma" options="-parameters" />
+      <module name="hateoas" options="-parameters" />
       <module name="mail" options="-parameters" />
       <module name="oauth" options="-parameters" />
       <module name="xml" options="-parameters" />
