@@ -16,6 +16,7 @@
         <module name="beveiligd" />
         <module name="firma" />
         <module name="oauth" />
+        <module name="restclient" />
       </profile>
     </annotationProcessing>
   </component>
@@ -30,6 +31,7 @@
       <module name="hateoas" options="-parameters" />
       <module name="mail" options="-parameters" />
       <module name="oauth" options="-parameters" />
+      <module name="restclient" options="-parameters" />
       <module name="xml" options="-parameters" />
     </option>
   </component>

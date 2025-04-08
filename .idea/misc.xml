@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/environment/pom.xml" />
         <option value="$PROJECT_DIR$/mail/pom.xml" />
         <option value="$PROJECT_DIR$/hateoas/pom.xml" />
+        <option value="$PROJECT_DIR$/restclient/pom.xml" />
       </list>
     </option>
   </component>

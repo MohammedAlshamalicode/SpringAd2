@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/environment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hateoas" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/restclient" vcs="Git" />
   </component>
 </project>
